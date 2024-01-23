@@ -17,7 +17,7 @@ In this project, we explore the field of self-driving cars and implement various
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/self-driving-car.git`
+1. Clone the repository: `git clone https://github.com/flexycode/self-driving-car.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage

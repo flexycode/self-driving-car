@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 To run the self-driving car simulation, execute the following command:
 
-###These projects often provide Python scripts that you can study and learn from. Some popular self-driving car projects include:
+### These projects often provide Python scripts that you can study and learn from. Some popular self-driving car projects include:
 
 * Donkey Car: An open-source DIY self-driving platform using Raspberry Pi and Python.
 * Apollo: An open autonomous driving platform developed by Baidu.

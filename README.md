@@ -36,11 +36,15 @@ On Windows, the command would be:
 ```bash
 cd C:\Users\YourUsername\Desktop\self-driving-car
 ```
-3. Once you are in the correct directory, you can execute the main.py file by running the following command:
+3. Once you are in the correct directory, you can execute the `main.py` file by running the following command:
+```bash   
 python main.py
-
+```
 Make sure you have Python installed on your system and the necessary dependencies for your self-driving car project are installed.
-The program will start running, and you should see the output or any relevant information printed to the console.
+
+4. The program will start running, and you should see the output or any relevant information printed to the console.
+
+Note: If you have multiple versions of Python installed on your system, you may need to specify the version when executing the command. For example, if you have both Python 2 and Python 3 installed, you can use `python3` instead of `python` to execute the file with Python 3.
 
 ### These projects often provide Python scripts that you can study and learn from. Some popular self-driving car projects include:
 

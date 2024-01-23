@@ -17,7 +17,7 @@ In this project, we explore the field of self-driving cars and implement various
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/flexycode/self-driving-car.git`
+1. Clone the repository: `git clone https://github.com/flexycode/self-driving-car.git` 
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
@@ -27,6 +27,7 @@ To run the self-driving car simulation, execute the following command:
 To execute the main.py file in your self-driving car project, follow these steps:
 
 Open a command-line interface (such as Terminal on macOS/Linux or Command Prompt on Windows).
+
 Navigate to the directory where the main.py file is located using the cd command. For example, if the file is located in the self-driving-car directory on your desktop, you can use the following command on macOS/Linux:
 cd ~/Desktop/self-driving-car
 

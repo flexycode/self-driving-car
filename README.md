@@ -26,15 +26,17 @@ To run the self-driving car simulation, execute the following command:
 
 To execute the main.py file in your self-driving car project, follow these steps:
 
-Open a command-line interface (such as Terminal on macOS/Linux or Command Prompt on Windows).
+1. Open a command-line interface (such as Terminal on macOS/Linux or Command Prompt on Windows).
 
-Navigate to the directory where the main.py file is located using the cd command. For example, if the file is located in the self-driving-car directory on your desktop, you can use the following command on macOS/Linux:
+2. Navigate to the directory where the `main.py` file is located using the `cd` command. For example, if the file is located in the `self-driving-car` directory on your desktop, you can use the following command on macOS/Linux:
+```bash
 cd ~/Desktop/self-driving-car
-
+```
 On Windows, the command would be:
+```bash
 cd C:\Users\YourUsername\Desktop\self-driving-car
-
-Once you are in the correct directory, you can execute the main.py file by running the following command:
+```
+3. Once you are in the correct directory, you can execute the main.py file by running the following command:
 python main.py
 
 Make sure you have Python installed on your system and the necessary dependencies for your self-driving car project are installed.

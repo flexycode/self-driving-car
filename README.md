@@ -7,7 +7,7 @@ This repository contains the source code and materials for the self-driving car 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
 
 ## Introduction
 
@@ -31,4 +31,4 @@ To run the self-driving car simulation, execute the following command:
 * CARLA: An open-source simulator for autonomous driving research.
 
   
-### These projects contain Python scripts that cover various aspects of self-driving car development, including perception, control, and decision-making algorithms.
+#### These projects contain Python scripts that cover various aspects of self-driving car development, including perception, control, and decision-making algorithms.
